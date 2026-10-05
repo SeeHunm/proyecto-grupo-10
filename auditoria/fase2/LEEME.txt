@@ -1,0 +1,1 @@
+Ejecuta scripts/auditoria.ps1 contra http://localhost:3001 para generar las evidencias reales.

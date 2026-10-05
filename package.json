@@ -1,0 +1,17 @@
+{
+  "name": "agrismart-api-caso10",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proyecto academico DevSecOps - Caso 10 AgriSmart API",
+  "main": "src/seguro/app.js",
+  "scripts": {
+    "vulnerable": "node src/vulnerable/app.js",
+    "seguro": "node src/seguro/app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "helmet": "^8.0.0",
+    "sqlite3": "^5.1.7"
+  }
+}
